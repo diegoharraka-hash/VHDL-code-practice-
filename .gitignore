@@ -1,0 +1,25 @@
+# ModelSim / QuestaSim
+work/
+transcript
+*.wlf
+# GHDL / GTKWave
+*.o
+*.cf
+*.vcd
+*.ghw
+# Vivado
+.Xil/
+*.jou
+*.log
+*.str
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+# Quartus
+db/
+incremental_db/
+output_files/
+*.qws
+*(Security copy)
